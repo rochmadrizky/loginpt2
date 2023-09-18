@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mb-4 relative">
-      <label for="username" class="block text-gray-700 pb-2 font-semibold">{{
+      <label for="password" class="block text-gray-700 pb-2 font-semibold">{{
         props.label
       }}</label>
       <input
